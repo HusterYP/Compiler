@@ -27,3 +27,19 @@
 
 参见本项目`StackCompiler`的实现, 测试源文件是`demo.sum`, 编译出来的文件是`demo.exc`
 
+比如对于`demo.sum`:
+
+```
+1 + 2 + 3
+```
+
+编译出来的`demo.exc`是:
+
+```
+push 1
+push 2
+add
+push 3
+add
+```
+
