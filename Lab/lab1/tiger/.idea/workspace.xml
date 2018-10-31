@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7ff2efa-1010-4fe0-a2ab-75c4e99ee17d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/BinarySearch.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/BinaryTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/BubbleSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Factorial.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/LinearSearch.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/LinkedList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/QuickSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Sum-infinite.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Sum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/TreeVisitor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/test.bat" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tiger.java" afterPath="$PROJECT_DIR$/src/Tiger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/CommandLine.java" afterPath="$PROJECT_DIR$/src/control/CommandLine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/Control.java" afterPath="$PROJECT_DIR$/src/control/Control.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lexer/Lexer.java" afterPath="$PROJECT_DIR$/src/lexer/Lexer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lexer/Token.java" afterPath="$PROJECT_DIR$/src/lexer/Token.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/parser/Parser.java" afterPath="$PROJECT_DIR$/src/parser/Parser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slp/Main.java" afterPath="$PROJECT_DIR$/src/slp/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slp/Samples.java" afterPath="$PROJECT_DIR$/src/slp/Samples.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slp/Slp.java" afterPath="$PROJECT_DIR$/src/slp/Slp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/Bug.java" afterPath="$PROJECT_DIR$/src/util/Bug.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/Flist.java" afterPath="$PROJECT_DIR$/src/util/Flist.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/Label.java" afterPath="$PROJECT_DIR$/src/util/Label.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/Todo.java" afterPath="$PROJECT_DIR$/src/util/Todo.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Lexer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lexer/Lexer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="method#Lexer#0;class#Lexer#0" expanded="false" />
+                <element signature="method#nextTokenInternal#0;class#Lexer#0" expanded="false" />
+                <element signature="e#693#734#0" expanded="false" />
+                <element signature="method#nextToken#0;class#Lexer#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Token.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lexer/Token.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-322">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class</find>
+      <find>Tree</find>
+      <find>The Tiger com</find>
+      <find>Copyright</find>
+      <find>maxar</find>
+      <find>maxArgs</find>
+      <find>slp</find>
+      <find>put</find>
+      <find>interp</find>
+      <find>System.out.print</find>
+      <find>System.ou</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/control/CommandLine.java" />
+        <option value="$PROJECT_DIR$/src/Tiger.java" />
+        <option value="$PROJECT_DIR$/src/slp/Samples.java" />
+        <option value="$PROJECT_DIR$/src/Exercise.java" />
+        <option value="$PROJECT_DIR$/src/slp/Slp.java" />
+        <option value="$PROJECT_DIR$/src/slp/Main.java" />
+        <option value="$PROJECT_DIR$/src/util/Todo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tiger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lexer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Software/nodejs/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Main&#9;FILE&#9;file:///home/yuanping/Code/Compiler/Lab/tiger/src/slp/Main.java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="slp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="slp.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tiger" />
+      <envs />
+    </configuration>
+    <configuration name="Tiger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Tiger" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tiger" />
+      <envs />
+    </configuration>
+    <configuration name="Todo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="util.Todo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tiger" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Tiger" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Todo" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Todo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Tiger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7ff2efa-1010-4fe0-a2ab-75c4e99ee17d" name="Default" comment="" />
+      <created>1540707916191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540707916191</updated>
+      <workItem from="1540707917675" duration="4134000" />
+      <workItem from="1540798501091" duration="1241000" />
+      <workItem from="1540961734107" duration="16422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21797000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56570154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Tiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#339#397#0" expanded="false" />
+            <element signature="e#569#617#0" expanded="false" />
+            <element signature="e#1206#1262#0" expanded="false" />
+            <element signature="e#2006#2066#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/control/CommandLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3204">
+          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.bat" />
+    <entry file="file://$PROJECT_DIR$/test/TreeVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/test/Sum-infinite.java" />
+    <entry file="file://$PROJECT_DIR$/test/BinaryTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/control/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="328" column="18" lean-forward="false" selection-start-line="328" selection-start-column="18" selection-end-line="328" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/jdk1.8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="1924" column="18" lean-forward="false" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/control/CommandLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Bug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#51#52#0" expanded="false" />
+            <element signature="e#108#109#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="e#339#397#0" expanded="false" />
+            <element signature="e#569#617#0" expanded="false" />
+            <element signature="e#1206#1262#0" expanded="false" />
+            <element signature="e#2006#2066#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Flist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#120#150#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/jdk1.8/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="624" column="34" lean-forward="false" selection-start-line="624" selection-start-column="31" selection-end-line="624" selection-end-column="34" />
+          <folding>
+            <element signature="docComment;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_INITIAL_CAPACITY#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#MAXIMUM_CAPACITY#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_LOAD_FACTOR#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#TREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#UNTREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#MIN_TREEIFY_CAPACITY#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getKey#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getValue#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#setValue#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#hash#0;class#HashMap#0" expanded="false" />
+            <element signature="method#hash#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#comparableClassFor#0;class#HashMap#0" expanded="false" />
+            <element signature="method#comparableClassFor#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#compareComparables#0;class#HashMap#0" expanded="false" />
+            <element signature="method#compareComparables#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#tableSizeFor#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tableSizeFor#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#table#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#entrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#size#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#modCount#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#threshold#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#loadFactor#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#0;class#HashMap#0" expanded="false" />
+            <element signature="method#HashMap#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#1;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#2;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#3;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putMapEntries#0;class#HashMap#0" expanded="false" />
+            <element signature="method#putMapEntries#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#HashMap#0" expanded="false" />
+            <element signature="method#get#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#getNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#containsKey#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#put#0;class#HashMap#0" expanded="false" />
+            <element signature="e#24329#24330#0" expanded="false" />
+            <element signature="e#24394#24395#0" expanded="false" />
+            <element signature="docComment;method#putVal#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#resize#0;class#HashMap#0" expanded="false" />
+            <element signature="method#resize#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#treeifyBin#0;class#HashMap#0" expanded="false" />
+            <element signature="method#treeifyBin#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putAll#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#HashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#removeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#removeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#containsValue#0;class#HashMap#0" expanded="false" />
+            <element signature="method#containsValue#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#keySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#keySet#0;class#HashMap#0" expanded="false" />
+            <element signature="class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#size#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#values#0;class#HashMap#0" expanded="false" />
+            <element signature="class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#size#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#entrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#entrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#size#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getOrDefault#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replace#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replace#1;class#HashMap#0" expanded="false" />
+            <element signature="method#computeIfAbsent#0;class#HashMap#0" expanded="false" />
+            <element signature="method#computeIfPresent#0;class#HashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#HashMap#0" expanded="false" />
+            <element signature="method#merge#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replaceAll#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#HashMap#0" expanded="false" />
+            <element signature="e#50765#50795#0" expanded="false" />
+            <element signature="e#50765#50795#0" expanded="false" />
+            <element signature="method#clone#0;class#HashMap#0" expanded="false" />
+            <element signature="method#loadFactor#0;class#HashMap#0" expanded="false" />
+            <element signature="method#capacity#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#HashMap#0" expanded="false" />
+            <element signature="method#writeObject#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#HashMap#0" expanded="false" />
+            <element signature="method#readObject#0;class#HashMap#0" expanded="false" />
+            <element signature="e#53184#53210#0" expanded="false" />
+            <element signature="e#53866#53930#0" expanded="false" />
+            <element signature="class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#HashIterator#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#nextNode#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#KeyIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#next#0;class#KeyIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#ValueIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#next#0;class#ValueIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#EntryIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#next#0;class#EntryIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#HashMapSpliterator#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getFence#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#KeySpliterator#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#ValueSpliterator#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#EntrySpliterator#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#newTreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replacementTreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#reinitialize#0;class#HashMap#0" expanded="false" />
+            <element signature="method#reinitialize#0;class#HashMap#0" expanded="false" />
+            <element signature="method#afterNodeAccess#0;class#HashMap#0" expanded="false" />
+            <element signature="method#afterNodeInsertion#0;class#HashMap#0" expanded="false" />
+            <element signature="method#afterNodeRemoval#0;class#HashMap#0" expanded="false" />
+            <element signature="method#internalWriteEntries#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#getTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#rotateLeft#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#rotateRight#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#balanceInsertion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#balanceDeletion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/jdk1.8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="211" column="6" lean-forward="false" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/slp/Samples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/slp/Slp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc;n#Exp#0;n#Slp#0" expanded="false" />
+            <element signature="class#T#0;class#Exp#0;class#Slp#0" expanded="false" />
+            <element signature="class#Id#0;class#Exp#0;class#Slp#0" expanded="false" />
+            <element signature="class#Num#0;class#Exp#0;class#Slp#0" expanded="false" />
+            <element signature="class#OP_T#0;class#Exp#0;class#Slp#0" expanded="false" />
+            <element signature="method#Op#0;class#Op#0;class#Exp#0;class#Slp#0" expanded="false" />
+            <element signature="class#Eseq#0;class#Exp#0;class#Slp#0" expanded="false" />
+            <element signature="method#Eseq#0;class#Eseq#0;class#Exp#0;class#Slp#0" expanded="false" />
+            <element signature="n#!!doc;n#ExpList#0;n#Slp#0" expanded="false" />
+            <element signature="class#ExpList#0;class#Slp#0" expanded="false" />
+            <element signature="class#T#0;class#ExpList#0;class#Slp#0" expanded="false" />
+            <element signature="class#Pair#0;class#ExpList#0;class#Slp#0" expanded="false" />
+            <element signature="method#Pair#0;class#Pair#0;class#ExpList#0;class#Slp#0" expanded="false" />
+            <element signature="class#Last#0;class#ExpList#0;class#Slp#0" expanded="false" />
+            <element signature="method#Last#0;class#Last#0;class#ExpList#0;class#Slp#0" expanded="false" />
+            <element signature="n#!!doc;n#Stm#0;n#Slp#0" expanded="false" />
+            <element signature="class#Stm#0;class#Slp#0" expanded="false" />
+            <element signature="class#T#0;class#Stm#0;class#Slp#0" expanded="false" />
+            <element signature="class#Compound#0;class#Stm#0;class#Slp#0" expanded="false" />
+            <element signature="method#Compound#0;class#Compound#0;class#Stm#0;class#Slp#0" expanded="false" />
+            <element signature="class#Assign#0;class#Stm#0;class#Slp#0" expanded="false" />
+            <element signature="method#Assign#0;class#Assign#0;class#Stm#0;class#Slp#0" expanded="false" />
+            <element signature="class#Print#0;class#Stm#0;class#Slp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="69" column="20" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+          <folding>
+            <element signature="method#Todo#0;class#Todo#0" expanded="false" />
+            <element signature="e#259#326#0" expanded="false" />
+            <element signature="method#maxArgsAssign#0;class#Todo#0" expanded="false" />
+            <element signature="method#maxArgsExp#0;class#Todo#0" expanded="false" />
+            <element signature="method#maxArgsPrint#0;class#Todo#0" expanded="false" />
+            <element signature="method#maxArgsPrint#1;class#Todo#0" expanded="false" />
+            <element signature="method#interpCompound#0;class#Todo#0" expanded="false" />
+            <element signature="method#interpAssign#0;class#Todo#0" expanded="false" />
+            <element signature="method#interpOp#0;class#Todo#0" expanded="false" />
+            <element signature="method#computeResult#0;class#Todo#0" expanded="false" />
+            <element signature="method#interpEseq#0;class#Todo#0" expanded="false" />
+            <element signature="method#interpPrint#0;class#Todo#0" expanded="false" />
+            <element signature="method#interpPrint#1;class#Todo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/slp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1082">
+          <caret line="238" column="0" lean-forward="false" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
+          <folding>
+            <element signature="e#344#390#0" expanded="false" />
+            <element signature="method#maxArgsExp#0;class#Main#0" expanded="false" />
+            <element signature="method#maxArgsStm#0;class#Main#0" expanded="false" />
+            <element signature="e#1043#1086#0" expanded="false" />
+            <element signature="method#interpStm#0;class#Main#0" expanded="false" />
+            <element signature="method#compileExp#0;class#Main#0" expanded="false" />
+            <element signature="method#compileExpList#0;class#Main#0" expanded="false" />
+            <element signature="method#compileStm#0;class#Main#0" expanded="false" />
+            <element signature="method#doit#0;class#Main#0" expanded="false" />
+            <element signature="e#7686#7687#0" expanded="true" />
+            <element signature="e#7736#7737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lexer/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lexer/Lexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="method#Lexer#0;class#Lexer#0" expanded="false" />
+            <element signature="method#nextTokenInternal#0;class#Lexer#0" expanded="false" />
+            <element signature="e#693#734#0" expanded="false" />
+            <element signature="method#nextToken#0;class#Lexer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tiger</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
